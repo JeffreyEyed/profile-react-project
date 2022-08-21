@@ -1,6 +1,6 @@
-import image from './Profile1.png'
-import link from './linkedin-logo.png'
-import email from './email-envelope.png'
+import image from './images/Profile1.png'
+import link from './images/linkedin-logo.png'
+import email from './images/email-envelope.png'
 
 function Header() {
     return (
