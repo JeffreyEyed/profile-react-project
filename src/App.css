@@ -3,6 +3,8 @@ body{
   box-sizing: border-box;
 }
 
+/* ------------------Header------------------- */
+
 .header-text{
   text-align: center;
   line-height: 10px;
@@ -27,11 +29,11 @@ body{
   background-color: black;
   width: 275px;
   height: 30rem;
-  margin: 0px 0px 0px 114px;
-  padding-left: 15px;
+  margin: 0px 0px 0px 113px;
+  padding-left: 17px;
   border-radius: 5%;
-  border-top-left-radius: 0px;
-  border-top-right-radius: 0px;
+  border-top-left-radius: 1px;
+  border-top-right-radius: 1px;
 }
 
 .header-head-shot{
@@ -67,5 +69,58 @@ body{
 
 }
 
-/* ------------------------------------- */
+/* ------------------About------------------- */
 
+.aboutDiv {
+  position: absolute;
+  top: 465px;
+  left: 135px;
+  color: white;
+  width: 250px;
+  height: 150px;
+  margin-top: 0px;
+}
+
+/* ------------------Interests------------------- */
+
+.interestsDiv {
+  position: absolute;
+  top: 590px;
+  left: 135px;
+  color: white;
+  width: 250px;
+  height: 150px;
+  margin-top: 0px;
+}
+
+/* -----------------Footer-------------------- */
+
+.footerDiv {
+  position: absolute;
+  background-color: rgb(35, 35, 35);
+  width: 275px;
+  height: 45px;
+  bottom: 25px;
+  left: 122px;
+}
+
+.twitter {
+  width: 50px;
+  margin-left: 15px;
+}
+
+.facebook {
+  width: 50px;
+  margin-left: 15px;
+}
+
+.discord {
+  width: 50px;
+  margin-left: 15px;
+}
+
+.github {
+  width: 40px;
+  margin-left: 15px;
+  margin-bottom: 7px;
+}
