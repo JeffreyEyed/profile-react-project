@@ -1,3 +1,5 @@
+I'm leaving the original text below to have for the future.  I created this from scratch.  I may improve on it and get the buttons operational. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
